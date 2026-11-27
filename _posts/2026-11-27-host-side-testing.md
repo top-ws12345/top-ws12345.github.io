@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "嵌入式 C 代码怎么在电脑上先测一遍"
 date: 2026-11-27 09:00:00 +0800
 categories: 测试

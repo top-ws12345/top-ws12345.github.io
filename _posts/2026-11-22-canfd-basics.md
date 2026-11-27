@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "CAN 和 CAN-FD：为什么要升级，升级了什么"
 date: 2026-11-22 09:00:00 +0800
 categories: 通信

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "RTOS 入门：任务、优先级，以及为什么要有取舍"
 date: 2026-11-24 09:00:00 +0800
 categories: RTOS

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "USB 摄像头（UVC）入门：等时传输为什么是难点"
 date: 2026-11-26 09:00:00 +0800
 categories: USB

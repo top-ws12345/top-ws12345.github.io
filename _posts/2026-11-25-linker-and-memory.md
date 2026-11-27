@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "链接脚本与内存分区：代码和数据到底放在哪"
 date: 2026-11-25 09:00:00 +0800
 categories: 内存

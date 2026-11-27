@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "掉电安全的参数存储：从 Flash 物理特性推导 A/B 双槽设计"
 date: 2026-11-23 09:00:00 +0800
 categories: 存储

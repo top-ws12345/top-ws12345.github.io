@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-diagram
 title: "标题：一句话说清这篇讲什么"
 date: 2026-12-01 09:00:00 +0800
 categories: 分类
