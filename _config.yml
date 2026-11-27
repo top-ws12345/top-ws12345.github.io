@@ -1,5 +1,5 @@
 title: 嵌入式学习笔记
-description: 面向初学者的嵌入式技术栈拆解：通信、存储、RTOS、内存、USB。只讲通用原理，不涉及任何项目细节。
+description: 面向有经验工程师的嵌入式技术栈拆解：通信、存储、RTOS、内存、USB。只讲通用原理与设计取舍，不涉及任何项目细节。
 lang: zh-CN
 theme: minima
 timezone: Asia/Shanghai
