@@ -1,0 +1,18 @@
+title: 嵌入式学习笔记
+description: 面向初学者的嵌入式技术栈拆解：通信、存储、RTOS、内存、USB。只讲通用原理，不涉及任何项目细节。
+lang: zh-CN
+theme: minima
+timezone: Asia/Shanghai
+markdown: kramdown
+minima:
+  skin: auto
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - about.md
+
+# 交接说明和写作模板放在仓库里，但不生成到网站上
+exclude:
+  - HANDOVER.md
+  - README.md
+  - _drafts_template.md
